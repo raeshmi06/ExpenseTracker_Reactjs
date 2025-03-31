@@ -23,19 +23,19 @@ total expenditure, and compare it with the salary.
 
 ### Screenshot 1
 
-![First screenshot] (projectOutputs/exp1.png)
+![First screenshot] (https://github.com/raeshmi06/ExpenseTracker_Reactjs/blob/master/projectOutputs/exp1.PNG?raw=true)
 
 ### Screenshot 2
 
-![Second screenshot] (projectOutputs/exp2.png)
+![Second screenshot] (https://github.com/raeshmi06/ExpenseTracker_Reactjs/blob/master/projectOutputs/exp2.PNG?raw=true)
 
 ### Screenshot 3
 
-![Third screenshot] (projectOutputs/exp3.png)
+![Third screenshot] (https://github.com/raeshmi06/ExpenseTracker_Reactjs/blob/master/projectOutputs/exp3.PNG?raw=true)
 
 ### Screenshot 4
 
-![Fourth screenshot] (projectOutputs/exp4.png)
+![Fourth screenshot] (https://github.com/raeshmi06/ExpenseTracker_Reactjs/blob/master/projectOutputs/exp4.PNG?raw=true)
 
 ## Installation
 
