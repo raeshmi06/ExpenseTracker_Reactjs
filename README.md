@@ -5,12 +5,12 @@ total expenditure, and compare it with the salary.
 
 ## Features
 
-:heavy_check_mark: Add,Delete and view expenses and Salary reduces according to expenses
-:heavy_check_mark: Store expenses in **Local storage** for persistence
-:heavy_check_mark: Live total expense calculation
-:heavy_check_mark: Salary spending limit with **alerts**
-:heavy_check_mark: Styled with **CSS** for clean UI
-:heavy_check_mark: Uses **React Hooks** (`useState`,`useEffect`)
+:✔: Add,Delete and view expenses and Salary reduces according to expenses
+:✔: Store expenses in **Local storage** for persistence
+:✔: Live total expense calculation
+:✔: Salary spending limit with **alerts**
+:✔: Styled with **CSS** for clean UI
+:✔: Uses **React Hooks** (`useState`,`useEffect`)
 
 ## Technologies Used
 
