@@ -24,5 +24,5 @@ total expenditure, and compare it with the salary.
 **Clone the Repository**
 
 ```sh
-
+git clone "https://github.com/raeshmi06/ExpenseTracker_Reactjs.git"
 ```
