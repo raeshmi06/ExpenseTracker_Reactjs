@@ -1,0 +1,73 @@
+body
+{
+    background-color: teal;
+    color: aliceblue;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    top: 0;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    bottom: 20px;
+}
+.expense-form input
+{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: darkgray;
+}
+.expense-form button
+{
+    background-color: black;
+    color:white;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
+.expense-list ul
+{
+    list-style: none;
+    padding: 0;
+    width: 60%;
+    margin-left: 25%;
+}
+.expense-list li
+{
+    background-color: thistle;
+    color: black;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    width: 80%;
+    justify-content: space-around;
+    display: flex;
+}
+.resetdata
+{
+    padding: 10px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    display: inline-block;
+}
+.balance
+{
+    background-color: cadetblue;
+    color: black;
+    width: 30%;
+    margin-left: 35%;
+}
+.bal
+{
+    display: inline-block;
+    background-color: cadetblue;
+    color: black;
+    width: 30%;
+    margin: 10px;
+}
