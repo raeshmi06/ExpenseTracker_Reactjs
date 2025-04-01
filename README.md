@@ -17,7 +17,7 @@ total expenditure, and compare it with the salary.
 1️⃣**React.js**(State & Props)
 2️⃣**CSS**(Styling)
 3️⃣**Local storage**(Data Persistence)
-4️⃣**HTML**(Structure of App)
+4️⃣**HTML**(Structure)
 
 ## Project Screenshots
 
