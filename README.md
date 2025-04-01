@@ -14,10 +14,10 @@ total expenditure, and compare it with the salary.
 
 ## Technologies Used
 
-**React.js**(State & Props)
-**CSS**(Styling)
-**Local storage**(Data Persistence)
-**HTML**(Structure of App)
+1️⃣**React.js**(State & Props)
+2️⃣**CSS**(Styling)
+3️⃣**Local storage**(Data Persistence)
+4️⃣**HTML**(Structure of App)
 
 ## Project Screenshots
 
